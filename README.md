@@ -18,6 +18,25 @@ git clone <repository-url>
 ```
 * Replace <repository-url> with the URL you copied in step 2.
 
+
+# Step 2: Install Dependencies
+
+* Navigate to the cloned repository's directory using the terminal or command prompt.
+* Run the following command to install the app's dependencies:
+```
+npm install
+```
+
+# Step 3: Run the React App Locally
+* After the dependencies are installed, run the following command to build the React app:
+```
+npm start
+```
+* Open a browser and navigate to http://localhost:3000 to view the app.
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
