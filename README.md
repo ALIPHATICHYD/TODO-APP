@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this technical assessment is to evaluate your proficiency in building JavaScript applications using ReactJS. For this assessment you will be required to build a simple todo application using local storage as your database to persist data.
+The objective of this technical assessment is to evaluate your proficiency in building JavaScript applications using ReactJS. For this assessment, you will be required to build a simple to-do application using local storage as your database to persist data.
 
 ## Requirements
 
@@ -38,7 +38,7 @@ Good luck! If you have any questions please send a mail to hello@webboss.tech
 
 Before you begin, ensure that you have the following prerequisites in place:
 
-* Node.js and npm (Node Package Manager) installed on your machine.
+* Node.js and npm (Node Package Manager) are installed on your machine.
 * A GitHub account.
 * A web hosting service where you can deploy your React app (e.g., Netlify, Vercel, GitHub Pages).
 
