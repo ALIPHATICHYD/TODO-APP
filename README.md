@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this technical assessment is to evaluate your proficiency in building JavaScript applications using ReactJS. For this assessment you will be required to build a simple todo application using localstorage as your database in order to persist data.
+The objective of this technical assessment is to evaluate your proficiency in building JavaScript applications using ReactJS. For this assessment you will be required to build a simple todo application using local storage as your database to persist data.
 
 ## Requirements
 
